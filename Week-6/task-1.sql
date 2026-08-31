@@ -1,4 +1,4 @@
-USE paddu;
+USE taxation_db;
 
 SELECT *
 FROM Income_Record
