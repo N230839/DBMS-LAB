@@ -1,4 +1,4 @@
-USE paddu;
+USE taxation_db;
 
 -- Part A
 SHOW TABLES;

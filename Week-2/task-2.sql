@@ -1,4 +1,4 @@
-USE paddu;
+USE taxation_db;
 
 -- Part A
 ALTER TABLE Income_Record DROP COLUMN category_name;

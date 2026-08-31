@@ -1,5 +1,6 @@
-create database paddu;
-use paddu;
+
+create database taxation_db;
+use taxation_db;
 create table Taxpayer(taxpayer_id INT primary key,
  pan_number VARCHAR(10) not null,
  full_name VARCHAR(100) not null,
